@@ -1,2 +1,5 @@
 Slides/Chapter12/Deep[[:space:]]Learning[[:space:]]diffusion.pptx filter=lfs diff=lfs merge=lfs -text
 Slides/Chapter11/StemGNN-master/dataset/PeMS07.csv filter=lfs diff=lfs merge=lfs -text
+Learning filter=lfs diff=lfs merge=lfs -text
+diffusion.pptx filter=lfs diff=lfs merge=lfs -text
+Slides/Chapter12/Deep filter=lfs diff=lfs merge=lfs -text
